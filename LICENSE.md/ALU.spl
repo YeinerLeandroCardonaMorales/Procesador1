@@ -1,0 +1,7 @@
+[Inputs]
+=entrada_alu_a[31:0]=
+=entrada_alu_b[31:0]=
+=uc_op[5:0]=
+[Outputs]
+=salida_alu[31:0]=
+[BiDir]

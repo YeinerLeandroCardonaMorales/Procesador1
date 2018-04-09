@@ -1,0 +1,2 @@
+vhdtdtfi -lib work UC.vhd -prj Procesador1 -o UC.spl -module UC -template C:/Xilinx/14.5/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e UC.spl D:/Proyectos_Xilinx/Procesador1/UC.sym 
